@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto';
+}
+
+.descuentos{
+    margin-top: 7rem;
+}
+
+.ubicacion p{
+    display: inline-block;
+    font-size: 0.81rem;
+}
+
+.card-footer p{
+    display: inline;
+}
+
